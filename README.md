@@ -9,7 +9,7 @@ A styling exercise attempting to replicate an Anywhere.com widget.
 * Go to gh-pages https://daviesre.github.io/widget-styling/
 
 #### Known Bugs / Unimplemented Features
-None known at this time.
+The widget has no functionality at this time.
 
 #### Support and contact details
 Please contact me at russdavies392@gmail.com if you have any questions or comments.
