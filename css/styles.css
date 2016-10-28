@@ -1,0 +1,98 @@
+#widget-move {
+  margin-left:40%;
+}
+
+#booking-block {
+  width: 150px;
+  height: 44px;
+  display: block;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#black-line {
+  height: 6px;
+  width: 300px;
+  display: block;
+  border: 1px solid black;
+  background-color: black;
+  position: relative;
+}
+
+#main-block {
+  display: block;
+  border: 1px solid lightgray;
+  width: 300px;
+  height: 262px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#text-position {
+  position: absolute;
+  margin-left: 25px;
+}
+
+#checkin-move {
+  margin-top: 26px;
+}
+
+#shift-right {
+  margin-left: 16px;
+}
+
+#checkin-box
+{
+  width: 124px;
+  height: 30px;
+  display: block;
+  border: 1px solid lightgray;
+  margin-bottom: 18px;
+  text-align:center;
+}
+/*I had trouble formatting the Check Out box next to it, so it was omitted*/
+
+.age-box
+{
+  width: 74px;
+  height: 32px;
+  display:block;
+  border: 1px solid lightgray;
+  margin-bottom: 36px;
+  text-align: center;
+}
+/*Same issue as with the Check Out box, but I at least got it to display okay. Specs are a little off*/
+
+#price-box {
+  max-width: 150px;
+  height: 58px;
+  border: 1px solid lightgray;
+  text-align: center;
+}
+
+#price-alter {
+  color: #FF4500;
+  font-size: 20px;
+}
+
+#text-alter {
+  color: gray;
+}
+
+.btn {
+  background-color: #FF4500;
+  color: white;
+  height: 58px;
+  border-radius: 0 !important;
+}
+/*Button height specs are slightly off, made it a bit larger to fit box*/
+
+.btn:hover {
+  background-color: black;
+  color: #FFFFFF !important;
+}
+
+.fa {
+  color: #FF4500;
+}
